@@ -1,0 +1,10 @@
+School Proctoring AI
+
+What's Happening
+A system in used to monitor students durinf their exams and flags those who are cheating based on their eye movements.
+
+What’s problematic
+The system will flag students who were not cheating as cheaters and may lead to them facing concequense that they did not deserve.
+
+One improvement idea
+The systen could use more metrics like the amount of time the student glance.
