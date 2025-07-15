@@ -1,0 +1,15 @@
+🤖 Discriminative Hiring Bot
+AI is reshaping how companies hire — scanning resumes, filtering candidates, and saving time. But what happens when the algorithm inherits our worst habits? Let’s look at a real-world scenario:
+
+📍What’s Happening
+A company shortlists candidates using a shortlisting mechanism driven by AI. As time goes on, more female applicants—particularly those with career gaps are consistently rejected by the model.
+
+🚨 What’s Problematic
+This pattern is discriminatory in addition to being unfair.
+
+- It increase Gender Baise in job hiring.
+
+💡 One Improvement Idea
+Retrain the model using fairness restrictions after auditing the data.
+
+By using fairness-conscious algorithms that don't consider career gaps to be detrimental unless they are supported by context,
